@@ -1,0 +1,15 @@
+{
+
+  "name": "App-Chain-Name",
+
+  "logo": "Appchain-Logo-WebAdress",
+
+  "rpc_url": "https://"VPS-Address":9944",
+
+  "explorer_url": "https://"VPS-Address":4000",
+
+  "metrics_endpoint": "https://"VPS-Adress":9615/metrics",
+
+  "id": "0119aea8-7957-4592-b89a-b17d097b7d2f"
+
+}
